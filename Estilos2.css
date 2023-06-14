@@ -75,32 +75,3 @@ color: white;
 .boton_categorias:hover{
   opacity: 0.3;
 }
-@media screen and (max-width: 767px) {
-  .logo {
-    float: none;
-    padding: 10px;
-  }
-
-  h1 {
-    padding: 20px;
-  }
-
-  .menu {
-    float: none;
-    text-align: center;
-    margin-top: 20px;
-  }
-
-  .texto {
-    padding: 20px;
-  }
-
-  .botones {
-    padding: 20px;
-  }
-
-  .boton_categorias {
-    float: none;
-    margin: 5px;
-  }
-}
